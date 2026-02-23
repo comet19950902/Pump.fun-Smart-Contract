@@ -7,4 +7,4 @@ Here
 You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract.
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 
-If you have some questions, ask @HarmoniTechDev in Telegram and nevo0825 in Discord
+If you have some questions, ask @NevoSayNev0 in Telegram and nevo0825 in Discord
